@@ -1,0 +1,3 @@
+text:"fooziman"
+
+print("FOOZIMAN")
