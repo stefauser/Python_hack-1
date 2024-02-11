@@ -1,3 +1,0 @@
-text:"fooziman"
-
-print("FOOZIMAN")
